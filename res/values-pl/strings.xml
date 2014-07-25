@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Krajowy optymalizator GPS</string>
+    <string name="txt_introduction">Wybierz swój kraj</string>
+    <string name="bt_change_country">Zmień gps.conf dla tego kraju</string>
+
+</resources>
